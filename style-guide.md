@@ -11,14 +11,13 @@ The designs were created to the following widths:
 
 ### Primary
 
-- Green: hsl(75, 94%, 57%)
-
+primary: "#F08CAE",
+      
 ### Neutral
 
-- White: hsl(0, 0%, 100%)
-- Grey: hsl(0, 0%, 20%)
-- Dark Grey: hsl(0, 0%, 12%)
-- Off Black: hsl(0, 0%, 8%)
+palepurp: "#9A4C95",
+grey: "#4D2D52",
+offBlack: "#141414",
 
 ## Typography
 
