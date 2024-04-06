@@ -1,5 +1,6 @@
 import Twitter from "../assets/X.png";
 import Instagram from "../assets/instagram.png";
+import LinkedIn from "../assets/linkedin.png";
 import Github from "../assets/github-mark.png";
 
 export const List = [
