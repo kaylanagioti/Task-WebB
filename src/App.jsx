@@ -19,7 +19,9 @@ const App = () => {
               </p>
 
               <p className="text-sm text-white font-base">
-                "An Information System learner.<br> </br> Dedicated and highly motivated second-year undergraduate student.{" "}
+                "An Information System learner.<br>
+                 Dedicated and highly motivated <br>
+                 second-year undergraduate student.{" "}
                 <span className="font-medium text-primary">^^</span>"
               </p>
             </div>
