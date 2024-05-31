@@ -23,7 +23,7 @@ const App = () => {
                 <span className="font-medium text-primary">^^</span>"
               </p>
             </div>
-            </div>
+            
 
             <div className="flex flex-col items-center justify-center my-3">
               {List.map(({ href, title, img }) => (
