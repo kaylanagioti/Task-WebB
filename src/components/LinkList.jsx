@@ -1,4 +1,3 @@
-import Twitter from "../assets/X.png";
 import Instagram from "../assets/instagram.png";
 import LinkedIn from "../assets/linkedin.png";
 import Github from "../assets/github-mark.png";
@@ -8,12 +7,6 @@ export const List = [
     title: "github",
     href: "https://github.com/kaylanagioti",
     img: Github,
-  },
-
-  {
-    title: "Twitter",
-    href: "https://twitter.com/interadore",
-    img: Twitter,
   },
 
   {
